@@ -1,4 +1,4 @@
-module github.com/rgynn/pensionera
+module github.com/rgynn/smacalc
 
 go 1.15
 
