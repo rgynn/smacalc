@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/rgynn/pensionera/pkg/config"
-	"github.com/rgynn/pensionera/pkg/symbol"
+	"github.com/rgynn/smacalc/pkg/config"
+	"github.com/rgynn/smacalc/pkg/symbol"
 )
 
 func main() {
